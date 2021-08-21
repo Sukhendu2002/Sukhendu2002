@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **MEN Stack**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Mongodb**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
