@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MEN Stack**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Mongodb**
 
