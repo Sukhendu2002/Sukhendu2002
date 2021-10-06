@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **sukhenduguria2017@gmail.com**
 
-- ⚡ Portfolio - https://sukhendu-portfolio.vercel.app/
-
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
