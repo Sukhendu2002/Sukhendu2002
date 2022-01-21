@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Mongodb**
+- 🌱 I’m currently learning **Nothing**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
