@@ -4,7 +4,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/76804228/136236736-14773c8f-18b6-4360-b84f-7f868bddab48.png" height="175px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sukhendu</h1>
-<h3 align="center">I'm a passionate Developer from India.</h3>
+<h3 align="center">I'm a Computer Science Student from India.</h3>
 
 
 ## 🙋‍♂️ About Me
