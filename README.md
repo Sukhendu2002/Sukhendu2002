@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with *******
 
-- 👨‍💻 All of my projects are available at [https://sukhendu-portfolio.vercel.app/](https://sukhendu-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sukhendu-portfolio-frontend-hgquwdmbm-sukhendu2002.vercel.app/](LIVE)
 
 - 💬 Ask me about **MERN**
 
