@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently Try to Pass My Sem Exam
+- 🌱 I’m currently Learning Solidity
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
