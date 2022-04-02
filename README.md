@@ -11,10 +11,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤝 I’m looking for help with *******
-
-- 👨‍💻 All of my projects are available at [LIVE](https://sukhendu-portfolio-frontend-hgquwdmbm-sukhendu2002.vercel.app/)
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sukhenduguria2017@gmail.com**
