@@ -1,19 +1,31 @@
+<h1 align="center">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif?raw=true" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif?raw=true" width="40px" />
+</h1>
 
+<br/>
+<br/>
 
-<h1 align="center">Hi 👋, I'm Sukhendu Sekhar Guria</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif?raw=true">
 
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 ***𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝***
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ***Blockchain & 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐***
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 ***𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝***
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 ***MERN***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : ***𝙸𝚝 𝙴𝚗𝚍𝚜***
+- 📫 How to reach me ***sukhenduguria2017@gmail.com***
 
+<br/>
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sukhendu2002" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Sukhendu2002?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Sukhendu2002?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
-- 🔭 I’m currently working on **MERN**
-
-- 🌱 I’m currently Learning Blockchain
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **sukhenduguria2017@gmail.com**
+#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,15 +45,15 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukhendu2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sukhendu's Github Stats">
-    <br/>
-    <br/>
-    <br/>
-    
-   <a href="https://github.com/Sukhendu2002">
+  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukhendu2002&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukhendu2002&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendu2002&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-<!--        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhendu2002&" alt="sukhendu2002" /></p> -->
-  </a>
+</p>
 
 <br/>
 <br/>
