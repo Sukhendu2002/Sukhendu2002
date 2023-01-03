@@ -45,38 +45,8 @@
 ## 📊 My Github Stats
 
 <p align="center">
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sukhendu2002&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp">
-</p>
-
-<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukhendu2002&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendu2002&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-<br/>
-<br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Sukhendu2002&theme=react-dark&hide_border=true&area=true)
-    
-
-<br/>
-<br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sukhendu2002&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-## ❤ Views and Followers
-<a href="https://github.com/Sukhendu2002/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sukhendu2002">
-</a>
-<a href="https://github.com/Sukhendu2002?tab=followers"><img src="https://img.shields.io/github/followers/Sukhendu2002?label=Followers&style=social" alt="GitHub Badge"></a>
- <p align="left"> <a href="https://twitter.com/sukhendu_2002" target="blank"><img src="https://img.shields.io/twitter/follow/sukhendu_2002?logo=twitter&style=for-the-badge" alt="sukhendu_2002" /></a> </p>
 
