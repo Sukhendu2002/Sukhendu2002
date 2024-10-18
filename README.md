@@ -4,14 +4,6 @@
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif?raw=true" width="40px" />
 </h1>
 
-<br/>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sukhendu2002" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Sukhendu2002?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Sukhendu2002?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-<br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif?raw=true" style="border-radius: 10px;">
 
@@ -30,13 +22,13 @@
 <p align="left">
 <a href="https://twitter.com/sukhendu_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sukhendu_2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sukhendu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhendu2002" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sukhendu_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sukhendu_2002" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/sukhendu_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sukhendu_2002" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/sukhenduguria201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sukhenduguria201" height="30" width="40" /></a> -->
 <!-- <a href="https://codeforces.com/profile/sukhendu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sukhendu2002" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/sukhendu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sukhendu2002" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/sukhendu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sukhendu2002" height="30" width="40" /></a> -->
 </p>
 
-## ⚡ Technologies and Tools
+<!--  ## ⚡ Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -55,10 +47,9 @@
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 ![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman) 
 
-
-<!-- ## 📊 My Github Stats
+ ## 📊 My Github Stats
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukhendu2002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sukhendu's Github Stats">
@@ -72,10 +63,10 @@
   </a>
 
 <br/>
-<br/> -->
+<br/> 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sukhendu2002&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sukhendu2002&theme=onedark&no-frame=false&no-bg=false&margin-w=4) 
 
 
-
+ -->
