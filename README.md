@@ -1,27 +1,18 @@
-```console
-$ whoami
-sukhendu — engineer @ rtCamp · WordPress core contributor (6.7 → 7.1)
+## <samp>sukhendu@github:~$ whoami</samp>
 
-$ cat ~/.focus
-wordpress core · gutenberg · developer tooling · ai-assisted dev workflows
+Software Engineer at **rtCamp** · WordPress core contributor.<br>Into **self-hosting**, **CLI tools** and **TUIs**.
 
-$ ls ~/building
-snap-pr-gate/   chamber/   boxpool/
-```
+### <samp>01 / now</samp>
 
-### `~/now`
+Building **[Boxpool](https://boxpool.run)**. One command to turn a spare PC or old laptop into a pool of agent sandboxes you can reach from anywhere.
 
-Sending patches to **WordPress core** most weeks: multisite, admin UX, block supports and the Abilities API. Building dev tools on the side.
+### <samp>02 / projects</samp>
 
-### `~/building`
+**[snap-pr-gate](https://github.com/Sukhendu2002/snap-pr-gate)**<br>A GitHub Action that labels PRs as `ship`, `needs_review` or `risky`, using repository context and plain-English rules from `.github/snap.md`.
 
-| | |
-|---|---|
-| **[snap-pr-gate](https://github.com/Sukhendu2002/snap-pr-gate)** | GitHub Action that labels every PR as `ship`, `needs_review` or `risky` in about a second. Reads full-repo context and follows plain-English review rules from `.github/snap.md` |
-| **chamber** <sub>private</sub> | AI-powered finance tracker. Turns receipt photos into expenses, adds them from Telegram, tracks accounts, loans, subscriptions and trips · Next.js 16, Prisma, Neon, R2 |
-| **[boxpool](https://boxpool.run)** <sub>soon</sub> | One command turns a spare PC or old laptop into a pool of agent sandboxes you can reach from anywhere |
+**Chamber** · <samp>private</samp><br>A finance tracker with AI receipt parsing, Telegram expense entry, and account, loan, subscription and trip tracking.
 
-### `~/open-source`
+### <samp>03 / open source</samp>
 
 **WordPress core**: credited in 6.7, 6.8, 6.9, 7.0 and 7.1
 
@@ -39,16 +30,10 @@ Sending patches to **WordPress core** most weeks: multisite, admin UX, block sup
 - [Table Block: Preserve column alignment when pasting Markdown tables](https://github.com/WordPress/gutenberg/pull/69322)
 - [Block Library: Add transforms between Verse and Preformatted blocks](https://github.com/WordPress/gutenberg/pull/70101)
 
-### `~/stack`
+### <samp>04 / stack</samp>
 
-```
-php · wordpress · gutenberg · typescript · react · next.js · node · postgres · prisma · tailwind · kotlin
-```
+**Languages** · TypeScript, PHP, Kotlin<br>**Frontend** · React, Next.js, Tailwind CSS<br>**Backend & data** · Node.js, PostgreSQL, Prisma
 
-### `~/elsewhere`
+### <samp>05 / elsewhere</samp>
 
 [wordpress.org](https://profiles.wordpress.org/sukhendu2002/) · [x](https://x.com/sukhendu_2002) · [linkedin](https://linkedin.com/in/sukhendu2002) · [email](mailto:sukhendu.guria@rtcamp.com)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhendu2002&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=6" height="110" alt="top languages" />
