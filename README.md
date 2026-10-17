@@ -4,7 +4,7 @@ Software Engineer at **rtCamp** · WordPress core contributor.<br>Into **self-ho
 
 ### <samp>01 / now</samp>
 
-Building **[Boxpool](https://boxpool.run)**. One command to turn a spare PC or old laptop into a pool of agent sandboxes you can reach from anywhere.
+Building **[Boxpool](https://github.com/Sukhendu2002/boxpool)**. One command to turn a spare PC or old laptop into a pool of agent sandboxes you can reach from anywhere.
 
 ### <samp>02 / projects</samp>
 
